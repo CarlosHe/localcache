@@ -1,0 +1,9 @@
+{
+	"name": "localcache",
+	"description": "Local cache for Delphi",
+	"version": "1.0.0",
+	"homepage": "https://github.com/CarlosHe/localcache",
+	"mainsrc": "./src/",
+	"projects": [],
+	"dependencies": {}
+}
